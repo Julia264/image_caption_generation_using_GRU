@@ -8,3 +8,6 @@ The decoder is responsible for generating the textual description of the image (
 To further enhance the performance, I utilized teacher forcing methods. Teacher forcing involves using the actual target word as the next input to the decoder during training, rather than using the word predicted by the model. This technique helps the model to learn more effectively by providing it with the correct context at each step during training.
 
 By combining these techniques, I aimed to build a robust model capable of generating accurate and coherent captions for images. The use of the Flicker8k Dataset provided a solid foundation for training, while the feature extractor (CNN), encoder-decoder architecture, GRU, and teacher forcing methods ensured that the network could learn how to caption the images correctly and efficiently.
+
+!(IMAGE/[your-image-file.jpg](https://github.com/Julia264/image_caption_generation_using_GRU/blob/main/IMAGE/DOG%20IMAGE.png))
+
