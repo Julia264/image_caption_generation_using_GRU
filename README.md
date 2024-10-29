@@ -9,5 +9,5 @@ To further enhance the performance, I utilized teacher forcing methods. Teacher 
 
 By combining these techniques, I aimed to build a robust model capable of generating accurate and coherent captions for images. The use of the Flicker8k Dataset provided a solid foundation for training, while the feature extractor (CNN), encoder-decoder architecture, GRU, and teacher forcing methods ensured that the network could learn how to caption the images correctly and efficiently.
 
-![IMAGE](IMAGE/DOG IMAGE.png)
+!(IMAGE/DOG IMAGE.png)
 
